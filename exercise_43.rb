@@ -221,3 +221,4 @@ end
 a_map = Map.new('central_corridor')
 an_engine = Engine.new(a_map)
 an_engine.play()
+
